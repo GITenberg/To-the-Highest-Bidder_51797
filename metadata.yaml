@@ -7,6 +7,9 @@ contributor:
     deathdate: 1963
     gutenberg_agent_id: '26297'
     url: http://www.gutenberg.org/2009/agents/26297
+covers:
+- cover_type: archival
+  image_path: 51797-h/images/cover.jpg
 creator:
   author:
     agent_name: Kingsley, Florence Morse
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '7835'
     url: http://www.gutenberg.org/2009/agents/7835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51797#To-the-Highest-Bidder
 gutenberg_issued: '2016-04-19'
 gutenberg_type: Text
 identifiers:
